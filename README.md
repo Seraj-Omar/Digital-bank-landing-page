@@ -48,7 +48,3 @@ src/
   Footer.tsx       # footer links and CTA
   globalReset.css  # global styles
 ```
-
-## License
-
-MIT
